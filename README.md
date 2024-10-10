@@ -35,4 +35,4 @@
 
 [네이버](https://www.naver.com)
 
-[네이버 설명추가](https://www.naver.com, "네이버로 이동")
+[네이버 설명추가](https://www.naver.com "네이버로 이동")
